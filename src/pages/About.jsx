@@ -9,7 +9,7 @@ export default function About() {
       transition={{ duration: 0.4 }}
     >
       <h2 className="text-2xl font-bold mb-2">Acerca de Nosotros</h2>
-      <p>Esta es la sección About. Aquí puedes escribir sobre tu proyecto, propósito o equipo.</p>
+      <p>somos una tienda en linea la cual se dedica a vender la mejor ropa para el gimnasio y activades deportivas, ven y conocenos.</p>
     </motion.div>
   );
 }

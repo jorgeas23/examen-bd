@@ -9,7 +9,7 @@ export default function Contact() {
       transition={{ duration: 0.4 }}
     >
       <h2 className="text-2xl font-bold mb-2">Contáctanos</h2>
-      <p>Puedes contactarnos a través del correo o numero telefonico</p>
+      <p>Puedes contactarnos a través del correo o numero telefonico gymfit@gmail.com</p>
     </motion.div>
   );
 }
